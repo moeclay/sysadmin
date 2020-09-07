@@ -1,0 +1,2 @@
+# sysadmin
+to administrator guide
